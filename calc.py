@@ -3,3 +3,5 @@ function divide
 res=x/y
 function multiply
 res=x*y
+function add
+res = a + b
